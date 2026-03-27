@@ -1,0 +1,5 @@
+.env
+*.log
+.idea
+bin
+.data
