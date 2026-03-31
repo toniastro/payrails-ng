@@ -1,0 +1,2655 @@
+[
+  {
+    "nibss_code": "000001",
+    "name": "Sterling Bank",
+    "short_name": "Sterling Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "232",
+      "nomba": "232",
+      "mono": "232",
+      "aella": "000001",
+      "fincra": "232",
+      "budpay": "000001",
+      "payaza": "000001"
+    }
+  },
+  {
+    "nibss_code": "000002",
+    "name": "Keystone Bank",
+    "short_name": "Keystone Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "082",
+      "nomba": "082",
+      "mono": "082",
+      "aella": "000002",
+      "fincra": "082",
+      "budpay": "000002",
+      "payaza": "000002"
+    }
+  },
+  {
+    "nibss_code": "000003",
+    "name": "First City Monument Bank",
+    "short_name": "First City Monument Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "214",
+      "nomba": "214",
+      "mono": "214",
+      "aella": "000003",
+      "fincra": "214",
+      "budpay": "000003",
+      "payaza": "000003"
+    }
+  },
+  {
+    "nibss_code": "000004",
+    "name": "United Bank For Africa",
+    "short_name": "United Bank For Africa",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "033",
+      "nomba": "033",
+      "mono": "033",
+      "aella": "000004",
+      "fincra": "033",
+      "budpay": "000004",
+      "payaza": "000004"
+    }
+  },
+  {
+    "nibss_code": "000006",
+    "name": "Jaiz Bank",
+    "short_name": "Jaiz Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "301",
+      "nomba": "301",
+      "mono": "301",
+      "aella": "000006",
+      "fincra": "301",
+      "budpay": "000006",
+      "payaza": "000006"
+    }
+  },
+  {
+    "nibss_code": "000007",
+    "name": "Fidelity Bank",
+    "short_name": "Fidelity Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070",
+      "nomba": "070",
+      "mono": "070",
+      "aella": "000007",
+      "fincra": "070",
+      "budpay": "000007",
+      "payaza": "000007"
+    }
+  },
+  {
+    "nibss_code": "000008",
+    "name": "Polaris Bank",
+    "short_name": "Polaris Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "076",
+      "nomba": "076",
+      "mono": "076",
+      "aella": "000008",
+      "fincra": "076",
+      "budpay": "000008",
+      "payaza": "000008"
+    }
+  },
+  {
+    "nibss_code": "000009",
+    "name": "Citibank Nigeria",
+    "short_name": "Citibank Nigeria",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "023",
+      "nomba": "023",
+      "aella": "000009",
+      "fincra": "023",
+      "budpay": "000009",
+      "payaza": "000009"
+    }
+  },
+  {
+    "nibss_code": "000010",
+    "name": "Ecobank Nigeria",
+    "short_name": "Ecobank Nigeria",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "050",
+      "nomba": "050",
+      "mono": "050",
+      "aella": "000010",
+      "fincra": "050",
+      "budpay": "000010",
+      "payaza": "000010"
+    }
+  },
+  {
+    "nibss_code": "000011",
+    "name": "Unity Bank",
+    "short_name": "Unity Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "215",
+      "nomba": "215",
+      "mono": "215",
+      "aella": "000011",
+      "fincra": "215",
+      "budpay": "000011",
+      "payaza": "000011"
+    }
+  },
+  {
+    "nibss_code": "000012",
+    "name": "Stanbic Ibtc Bank",
+    "short_name": "Stanbic Ibtc Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "221",
+      "nomba": "221",
+      "mono": "221",
+      "aella": "000012",
+      "fincra": "221",
+      "budpay": "000012",
+      "payaza": "000012"
+    }
+  },
+  {
+    "nibss_code": "000013",
+    "name": "Guaranty Trust Bank",
+    "short_name": "Guaranty Trust Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "058",
+      "nomba": "058",
+      "mono": "058",
+      "aella": "000013",
+      "fincra": "058",
+      "budpay": "000013",
+      "payaza": "000013"
+    }
+  },
+  {
+    "nibss_code": "000014",
+    "name": "Access Bank",
+    "short_name": "Access Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "044",
+      "nomba": "044",
+      "mono": "044",
+      "aella": "000014",
+      "fincra": "044",
+      "budpay": "000014",
+      "payaza": "000014"
+    }
+  },
+  {
+    "nibss_code": "000015",
+    "name": "Zenith Bank",
+    "short_name": "Zenith Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "057",
+      "nomba": "057",
+      "mono": "057",
+      "aella": "000015",
+      "fincra": "057",
+      "budpay": "000015",
+      "payaza": "000015"
+    }
+  },
+  {
+    "nibss_code": "000016",
+    "name": "Firstbank Of Nigeria",
+    "short_name": "Firstbank Of Nigeria",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "011",
+      "nomba": "011",
+      "mono": "011",
+      "aella": "000016",
+      "fincra": "011",
+      "budpay": "000016",
+      "payaza": "000016"
+    }
+  },
+  {
+    "nibss_code": "000017",
+    "name": "Wema Bank",
+    "short_name": "Wema Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "035",
+      "nomba": "035",
+      "mono": "035",
+      "aella": "000017",
+      "fincra": "035",
+      "budpay": "000017",
+      "payaza": "000017"
+    }
+  },
+  {
+    "nibss_code": "000018",
+    "name": "Union Bank",
+    "short_name": "Union Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "032",
+      "nomba": "032",
+      "mono": "032",
+      "aella": "000018",
+      "fincra": "032",
+      "budpay": "000018",
+      "payaza": "000018"
+    }
+  },
+  {
+    "nibss_code": "000020",
+    "name": "Heritage Bank",
+    "short_name": "Heritage Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "030",
+      "aella": "000020",
+      "budpay": "000020",
+      "payaza": "000020"
+    }
+  },
+  {
+    "nibss_code": "000021",
+    "name": "Standard Chartered Bank",
+    "short_name": "Standard Chartered Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "068",
+      "nomba": "068",
+      "mono": "068",
+      "aella": "000021",
+      "fincra": "068",
+      "budpay": "000021",
+      "payaza": "000021"
+    }
+  },
+  {
+    "nibss_code": "000022",
+    "name": "Suntrust Bank",
+    "short_name": "Suntrust Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "100",
+      "nomba": "100",
+      "mono": "100",
+      "aella": "000022",
+      "fincra": "100",
+      "budpay": "000022",
+      "payaza": "000022"
+    }
+  },
+  {
+    "nibss_code": "000023",
+    "name": "Providus Bank",
+    "short_name": "Providus Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "101",
+      "nomba": "101",
+      "mono": "101",
+      "aella": "000023",
+      "fincra": "101",
+      "budpay": "000023",
+      "payaza": "000023"
+    }
+  },
+  {
+    "nibss_code": "000024",
+    "name": "Rand Merchant Bank",
+    "short_name": "Rand Merchant Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "502",
+      "nomba": "502",
+      "aella": "000024",
+      "fincra": "502",
+      "budpay": "000024",
+      "payaza": "000024"
+    }
+  },
+  {
+    "nibss_code": "000025",
+    "name": "Titan Trust Bank",
+    "short_name": "Titan Trust Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "102",
+      "mono": "102",
+      "aella": "000025",
+      "fincra": "102",
+      "budpay": "000025",
+      "payaza": "000025"
+    }
+  },
+  {
+    "nibss_code": "000026",
+    "name": "Taj Bank",
+    "short_name": "Taj Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "302",
+      "nomba": "000026",
+      "mono": "302",
+      "aella": "000026",
+      "fincra": "000026",
+      "budpay": "000026",
+      "payaza": "000026"
+    }
+  },
+  {
+    "nibss_code": "000027",
+    "name": "Globus Bank",
+    "short_name": "Globus Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "00103",
+      "nomba": "000027",
+      "mono": "103",
+      "aella": "000027",
+      "fincra": "000027",
+      "budpay": "000027",
+      "payaza": "000027"
+    }
+  },
+  {
+    "nibss_code": "000031",
+    "name": "Premium Trust Bank",
+    "short_name": "Premium Trust Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "105",
+      "nomba": "000031",
+      "aella": "000031",
+      "fincra": "000031",
+      "payaza": "000031"
+    }
+  },
+  {
+    "nibss_code": "000036",
+    "name": "Optimus Bank",
+    "short_name": "Optimus Bank",
+    "aliases": [],
+    "type": "commercial",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "000036",
+      "aella": "000036",
+      "fincra": "000036",
+      "payaza": "000036"
+    }
+  },
+  {
+    "nibss_code": "060001",
+    "name": "Coronation Bank",
+    "short_name": "Coronation Bank",
+    "aliases": [],
+    "type": "merchant",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "559",
+      "nomba": "559",
+      "aella": "060001",
+      "fincra": "559",
+      "budpay": "060001",
+      "payaza": "060001"
+    }
+  },
+  {
+    "nibss_code": "060002",
+    "name": "Fbnquest Bank",
+    "short_name": "Fbnquest Bank",
+    "aliases": [],
+    "type": "merchant",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "911",
+      "nomba": "060002",
+      "aella": "060002",
+      "fincra": "060002",
+      "budpay": "060002",
+      "payaza": "060002"
+    }
+  },
+  {
+    "nibss_code": "060003",
+    "name": "Nova Merchant Bank",
+    "short_name": "Nova Merchant Bank",
+    "aliases": [],
+    "type": "merchant",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "637",
+      "nomba": "060003",
+      "aella": "060003",
+      "fincra": "060003",
+      "budpay": "060003",
+      "payaza": "060003"
+    }
+  },
+  {
+    "nibss_code": "070001",
+    "name": "Npf Microfinance Bank",
+    "short_name": "Npf Microfinance Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "947",
+      "nomba": "552",
+      "aella": "070001",
+      "fincra": "552",
+      "budpay": "070001",
+      "payaza": "070001"
+    }
+  },
+  {
+    "nibss_code": "070002",
+    "name": "Fortis Microfinance Bank",
+    "short_name": "Fortis Microfinance Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "948",
+      "nomba": "308",
+      "aella": "070002",
+      "fincra": "308",
+      "budpay": "070002",
+      "payaza": "070002"
+    }
+  },
+  {
+    "nibss_code": "070006",
+    "name": "Convenant Microfinance Bank",
+    "short_name": "Convenant Microfinance Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "551",
+      "aella": "070006",
+      "fincra": "551",
+      "budpay": "070006",
+      "payaza": "070006"
+    }
+  },
+  {
+    "nibss_code": "070007",
+    "name": "Omoluabi Mortgage Bank",
+    "short_name": "Omoluabi Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "950",
+      "nomba": "606",
+      "aella": "070007",
+      "fincra": "606",
+      "budpay": "070007",
+      "payaza": "070007"
+    }
+  },
+  {
+    "nibss_code": "070008",
+    "name": "Page Microfinance Bank",
+    "short_name": "Page Microfinance Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "951",
+      "nomba": "560",
+      "aella": "070008",
+      "fincra": "560",
+      "budpay": "070008",
+      "payaza": "070008"
+    }
+  },
+  {
+    "nibss_code": "070009",
+    "name": "Gateway Mortgage Bank",
+    "short_name": "Gateway Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070009",
+      "nomba": "070009",
+      "aella": "070009",
+      "fincra": "070009",
+      "budpay": "070009",
+      "payaza": "070009"
+    }
+  },
+  {
+    "nibss_code": "070010",
+    "name": "Abbey Mortgage Bank",
+    "short_name": "Abbey Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070010",
+      "nomba": "070010",
+      "aella": "070010",
+      "fincra": "070010",
+      "budpay": "070010",
+      "payaza": "070010"
+    }
+  },
+  {
+    "nibss_code": "070011",
+    "name": "Refuge Mortgage Bank",
+    "short_name": "Refuge Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070011",
+      "aella": "070011",
+      "budpay": "070011",
+      "payaza": "070011"
+    }
+  },
+  {
+    "nibss_code": "070012",
+    "name": "Lbic Mortgage Bank",
+    "short_name": "Lbic Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "aella": "070012",
+      "budpay": "070012",
+      "payaza": "070012"
+    }
+  },
+  {
+    "nibss_code": "070013",
+    "name": "Platinum Mortgage Bank",
+    "short_name": "Platinum Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070013",
+      "nomba": "070013",
+      "aella": "070013",
+      "fincra": "070013",
+      "budpay": "070013",
+      "payaza": "070013"
+    }
+  },
+  {
+    "nibss_code": "070014",
+    "name": "First Generation Mortgage Bank",
+    "short_name": "First Generation Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070014",
+      "aella": "070014",
+      "budpay": "070014",
+      "payaza": "070014"
+    }
+  },
+  {
+    "nibss_code": "070015",
+    "name": "Brent Generation Mortgage Bank",
+    "short_name": "Brent Generation Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070015",
+      "nomba": "070015",
+      "aella": "070015",
+      "fincra": "070015",
+      "budpay": "070015",
+      "payaza": "070015"
+    }
+  },
+  {
+    "nibss_code": "070016",
+    "name": "Infinity Trust Generation Mortgage Bank",
+    "short_name": "Infinity Trust Generation Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070016",
+      "nomba": "070016",
+      "aella": "070016",
+      "fincra": "070016",
+      "budpay": "070016",
+      "payaza": "070016"
+    }
+  },
+  {
+    "nibss_code": "070017",
+    "name": "Haggai Mortgage Bank",
+    "short_name": "Haggai Mortgage Bank",
+    "aliases": [],
+    "type": "mortgage",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "070017",
+      "nomba": "070017",
+      "aella": "070017",
+      "fincra": "070017",
+      "budpay": "070017",
+      "payaza": "070017"
+    }
+  },
+  {
+    "nibss_code": "090001",
+    "name": "Asosavings Bank",
+    "short_name": "Asosavings Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "401",
+      "aella": "090001",
+      "fincra": "401",
+      "budpay": "090001",
+      "payaza": "090001"
+    }
+  },
+  {
+    "nibss_code": "090003",
+    "name": "Jubileelife Bank",
+    "short_name": "Jubileelife Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "906",
+      "nomba": "402",
+      "aella": "090003",
+      "fincra": "402",
+      "budpay": "090003",
+      "payaza": "090003"
+    }
+  },
+  {
+    "nibss_code": "090004",
+    "name": "Prallex Bank",
+    "short_name": "Prallex Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "907",
+      "nomba": "000030",
+      "aella": "090004",
+      "fincra": "000030",
+      "budpay": "090004",
+      "payaza": "090004"
+    }
+  },
+  {
+    "nibss_code": "090005",
+    "name": "Trustbond Bank",
+    "short_name": "Trustbond Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "523",
+      "aella": "090005",
+      "fincra": "523",
+      "budpay": "090005",
+      "payaza": "090005"
+    }
+  },
+  {
+    "nibss_code": "090006",
+    "name": "Stanbicmobilemoney",
+    "short_name": "Stanbicmobilemoney",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "304",
+      "aella": "090006",
+      "fincra": "304",
+      "budpay": "090006",
+      "payaza": "090006"
+    }
+  },
+  {
+    "nibss_code": "090097",
+    "name": "Ekondo Microfinance Bank",
+    "short_name": "Ekondo Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090097",
+      "nomba": "562",
+      "aella": "090097",
+      "fincra": "562",
+      "budpay": "090097",
+      "payaza": "090097"
+    }
+  },
+  {
+    "nibss_code": "090107",
+    "name": "Fnb Mortgages Bank",
+    "short_name": "Fnb Mortgages Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "aella": "090107",
+      "budpay": "090107",
+      "payaza": "090107"
+    }
+  },
+  {
+    "nibss_code": "090108",
+    "name": "New Prudential Bank",
+    "short_name": "New Prudential Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "561",
+      "aella": "090108",
+      "fincra": "561",
+      "budpay": "090108",
+      "payaza": "090108"
+    }
+  },
+  {
+    "nibss_code": "090110",
+    "name": "Vfd Microfinance Bank",
+    "short_name": "Vfd Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "566",
+      "nomba": "090110",
+      "aella": "090110",
+      "fincra": "090110",
+      "budpay": "090110",
+      "payaza": "090110"
+    }
+  },
+  {
+    "nibss_code": "090111",
+    "name": "Finatrust Microfinance Bank",
+    "short_name": "Finatrust Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090111",
+      "nomba": "608",
+      "aella": "090111",
+      "fincra": "608",
+      "budpay": "090111",
+      "payaza": "090111"
+    }
+  },
+  {
+    "nibss_code": "090112",
+    "name": "Seed Capital Microfinance Bank",
+    "short_name": "Seed Capital Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "609",
+      "nomba": "609",
+      "aella": "090112",
+      "fincra": "609",
+      "budpay": "090112",
+      "payaza": "090112"
+    }
+  },
+  {
+    "nibss_code": "090114",
+    "name": "Empire Microfinance Bank",
+    "short_name": "Empire Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "913",
+      "nomba": "090114",
+      "aella": "090114",
+      "fincra": "090114",
+      "budpay": "090114",
+      "payaza": "090114"
+    }
+  },
+  {
+    "nibss_code": "090115",
+    "name": "Tcf Microfinance Bank",
+    "short_name": "Tcf Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "51211",
+      "nomba": "090115",
+      "aella": "090115",
+      "fincra": "090115",
+      "budpay": "090115",
+      "payaza": "090115"
+    }
+  },
+  {
+    "nibss_code": "090116",
+    "name": "Amml Microfinance Bank",
+    "short_name": "Amml Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "914",
+      "nomba": "090116",
+      "aella": "090116",
+      "fincra": "090116",
+      "budpay": "090116",
+      "payaza": "090116"
+    }
+  },
+  {
+    "nibss_code": "090117",
+    "name": "Boctrust Microfinance Bank",
+    "short_name": "Boctrust Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "952",
+      "nomba": "090117",
+      "aella": "090117",
+      "fincra": "090117",
+      "budpay": "090117",
+      "payaza": "090117"
+    }
+  },
+  {
+    "nibss_code": "090118",
+    "name": "Ibile Microfinance Bank",
+    "short_name": "Ibile Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "51244",
+      "nomba": "090118",
+      "aella": "090118",
+      "fincra": "090118",
+      "budpay": "090118",
+      "payaza": "090118"
+    }
+  },
+  {
+    "nibss_code": "090119",
+    "name": "Ohafia Microfinance Bank",
+    "short_name": "Ohafia Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090119",
+      "nomba": "090119",
+      "aella": "090119",
+      "fincra": "090119",
+      "budpay": "090119",
+      "payaza": "090119"
+    }
+  },
+  {
+    "nibss_code": "090120",
+    "name": "Wetland Microfinance Bank",
+    "short_name": "Wetland Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "954",
+      "nomba": "090120",
+      "aella": "090120",
+      "fincra": "090120",
+      "budpay": "090120",
+      "payaza": "090120"
+    }
+  },
+  {
+    "nibss_code": "090121",
+    "name": "Hasal Microfinance Bank",
+    "short_name": "Hasal Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "50383",
+      "nomba": "090121",
+      "aella": "090121",
+      "fincra": "090121",
+      "budpay": "090121",
+      "payaza": "090121"
+    }
+  },
+  {
+    "nibss_code": "090122",
+    "name": "Gowans Microfinance Bank",
+    "short_name": "Gowans Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090122",
+      "nomba": "090122",
+      "aella": "090122",
+      "fincra": "090122",
+      "budpay": "090122",
+      "payaza": "090122"
+    }
+  },
+  {
+    "nibss_code": "090123",
+    "name": "Verite Microfinance Bank",
+    "short_name": "Verite Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "090123",
+      "aella": "090123",
+      "fincra": "090123",
+      "budpay": "090123",
+      "payaza": "090123"
+    }
+  },
+  {
+    "nibss_code": "090124",
+    "name": "Xslnce Microfinance Bank",
+    "short_name": "Xslnce Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090124",
+      "nomba": "090124",
+      "aella": "090124",
+      "fincra": "090124",
+      "budpay": "090124",
+      "payaza": "090124"
+    }
+  },
+  {
+    "nibss_code": "090125",
+    "name": "Regent Microfinance Bank",
+    "short_name": "Regent Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "955",
+      "nomba": "090125",
+      "aella": "090125",
+      "fincra": "090125",
+      "budpay": "090125",
+      "payaza": "090125"
+    }
+  },
+  {
+    "nibss_code": "090126",
+    "name": "Fidfund Microfinance Bank",
+    "short_name": "Fidfund Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090126",
+      "nomba": "090126",
+      "aella": "090126",
+      "fincra": "090126",
+      "budpay": "090126",
+      "payaza": "090126"
+    }
+  },
+  {
+    "nibss_code": "090127",
+    "name": "Bc Kash Microfinance Bank",
+    "short_name": "Bc Kash Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090127",
+      "aella": "090127",
+      "budpay": "090127",
+      "payaza": "090127"
+    }
+  },
+  {
+    "nibss_code": "090128",
+    "name": "Ndiorah Microfinance Bank",
+    "short_name": "Ndiorah Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090128",
+      "nomba": "090128",
+      "aella": "090128",
+      "fincra": "090128",
+      "budpay": "090128",
+      "payaza": "090128"
+    }
+  },
+  {
+    "nibss_code": "090129",
+    "name": "Moneytrust Microfinance Bank",
+    "short_name": "Moneytrust Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "963",
+      "nomba": "090129",
+      "aella": "090129",
+      "fincra": "090129",
+      "budpay": "090129",
+      "payaza": "090129"
+    }
+  },
+  {
+    "nibss_code": "090130",
+    "name": "Consumer Microfinance Bank",
+    "short_name": "Consumer Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090130",
+      "nomba": "090130",
+      "aella": "090130",
+      "fincra": "090130",
+      "budpay": "090130",
+      "payaza": "090130"
+    }
+  },
+  {
+    "nibss_code": "090131",
+    "name": "Allworkers Microfinance Bank",
+    "short_name": "Allworkers Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090131",
+      "aella": "090131",
+      "budpay": "090131",
+      "payaza": "090131"
+    }
+  },
+  {
+    "nibss_code": "090132",
+    "name": "Richway Microfinance Bank",
+    "short_name": "Richway Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090132",
+      "nomba": "090132",
+      "aella": "090132",
+      "fincra": "090132",
+      "budpay": "090132",
+      "payaza": "090132"
+    }
+  },
+  {
+    "nibss_code": "090133",
+    "name": "Al-Barkah Microfinance Bank",
+    "short_name": "Al-Barkah Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090133",
+      "aella": "090133",
+      "budpay": "090133",
+      "payaza": "090133"
+    }
+  },
+  {
+    "nibss_code": "090134",
+    "name": "Accion Microfinance Bank",
+    "short_name": "Accion Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090134",
+      "nomba": "090134",
+      "aella": "090134",
+      "fincra": "090134",
+      "budpay": "090134",
+      "payaza": "090134"
+    }
+  },
+  {
+    "nibss_code": "090135",
+    "name": "Personal Trust Microfinance Bank",
+    "short_name": "Personal Trust Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090135",
+      "nomba": "090135",
+      "aella": "090135",
+      "fincra": "090135",
+      "budpay": "090135",
+      "payaza": "090135"
+    }
+  },
+  {
+    "nibss_code": "090136",
+    "name": "Microcred Microfinance Bank",
+    "short_name": "Microcred Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090136",
+      "nomba": "090136",
+      "aella": "090136",
+      "fincra": "090136",
+      "budpay": "090136",
+      "payaza": "090136"
+    }
+  },
+  {
+    "nibss_code": "090137",
+    "name": "Pecan Trust Microfinance Bank",
+    "short_name": "Pecan Trust Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090137",
+      "nomba": "090137",
+      "aella": "090137",
+      "fincra": "090137",
+      "budpay": "090137",
+      "payaza": "090137"
+    }
+  },
+  {
+    "nibss_code": "090138",
+    "name": "Royal Exchange Microfinance Bank",
+    "short_name": "Royal Exchange Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090138",
+      "aella": "090138",
+      "budpay": "090138",
+      "payaza": "090138"
+    }
+  },
+  {
+    "nibss_code": "090139",
+    "name": "Visa Microfinance Bank",
+    "short_name": "Visa Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090139",
+      "nomba": "090139",
+      "aella": "090139",
+      "fincra": "090139",
+      "budpay": "090139",
+      "payaza": "090139"
+    }
+  },
+  {
+    "nibss_code": "090140",
+    "name": "Sagamu Microfinance Bank",
+    "short_name": "Sagamu Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "966",
+      "nomba": "090140",
+      "aella": "090140",
+      "fincra": "090140",
+      "budpay": "090140",
+      "payaza": "090140"
+    }
+  },
+  {
+    "nibss_code": "090141",
+    "name": "Chikum Microfinance Bank",
+    "short_name": "Chikum Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090141",
+      "aella": "090141",
+      "budpay": "090141",
+      "payaza": "090141"
+    }
+  },
+  {
+    "nibss_code": "090142",
+    "name": "Yes Microfinance Bank",
+    "short_name": "Yes Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090142",
+      "nomba": "090142",
+      "aella": "090142",
+      "fincra": "090142",
+      "budpay": "090142",
+      "payaza": "090142"
+    }
+  },
+  {
+    "nibss_code": "090143",
+    "name": "Apeks Microfinance Bank",
+    "short_name": "Apeks Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090143",
+      "aella": "090143",
+      "budpay": "090143",
+      "payaza": "090143"
+    }
+  },
+  {
+    "nibss_code": "090144",
+    "name": "Cit Microfinance Bank",
+    "short_name": "Cit Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090144",
+      "nomba": "090144",
+      "aella": "090144",
+      "fincra": "090144",
+      "budpay": "090144",
+      "payaza": "090144"
+    }
+  },
+  {
+    "nibss_code": "090145",
+    "name": "Fullrange Microfinance Bank",
+    "short_name": "Fullrange Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090145",
+      "aella": "090145",
+      "budpay": "090145",
+      "payaza": "090145"
+    }
+  },
+  {
+    "nibss_code": "090146",
+    "name": "Trident Microfinance Bank",
+    "short_name": "Trident Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090146",
+      "nomba": "090146",
+      "aella": "090146",
+      "fincra": "090146",
+      "budpay": "090146",
+      "payaza": "090146"
+    }
+  },
+  {
+    "nibss_code": "090147",
+    "name": "Hackman Microfinance Bank",
+    "short_name": "Hackman Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "51251",
+      "aella": "090147",
+      "budpay": "090147",
+      "payaza": "090147"
+    }
+  },
+  {
+    "nibss_code": "090148",
+    "name": "Bowen Microfinance Bank",
+    "short_name": "Bowen Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "50931",
+      "nomba": "090148",
+      "aella": "090148",
+      "fincra": "090148",
+      "budpay": "090148",
+      "payaza": "090148"
+    }
+  },
+  {
+    "nibss_code": "090149",
+    "name": "Irl Microfinance Bank",
+    "short_name": "Irl Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090149",
+      "aella": "090149",
+      "budpay": "090149",
+      "payaza": "090149"
+    }
+  },
+  {
+    "nibss_code": "090150",
+    "name": "Virtue Microfinance Bank",
+    "short_name": "Virtue Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090150",
+      "aella": "090150",
+      "budpay": "090150",
+      "payaza": "090150"
+    }
+  },
+  {
+    "nibss_code": "090151",
+    "name": "Mutual Trust Microfinance Bank",
+    "short_name": "Mutual Trust Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090151",
+      "nomba": "090151",
+      "aella": "090151",
+      "fincra": "090151",
+      "budpay": "090151",
+      "payaza": "090151"
+    }
+  },
+  {
+    "nibss_code": "090152",
+    "name": "Nargata Microfinance Bank",
+    "short_name": "Nargata Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "aella": "090152",
+      "budpay": "090152",
+      "payaza": "090152"
+    }
+  },
+  {
+    "nibss_code": "090153",
+    "name": "Ffs Microfinance Bank",
+    "short_name": "Ffs Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090153",
+      "nomba": "090153",
+      "aella": "090153",
+      "fincra": "090153",
+      "budpay": "090153",
+      "payaza": "090153"
+    }
+  },
+  {
+    "nibss_code": "090154",
+    "name": "Cemcs Microfinance Bank",
+    "short_name": "Cemcs Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "50823",
+      "nomba": "090154",
+      "aella": "090154",
+      "fincra": "090154",
+      "budpay": "090154",
+      "payaza": "090154"
+    }
+  },
+  {
+    "nibss_code": "090155",
+    "name": "Lafayette Microfinance Bank",
+    "short_name": "Lafayette Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "aella": "090155",
+      "budpay": "090155",
+      "payaza": "090155"
+    }
+  },
+  {
+    "nibss_code": "090156",
+    "name": "E-Barcs Microfinance Bank",
+    "short_name": "E-Barcs Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090156",
+      "aella": "090156",
+      "budpay": "090156",
+      "payaza": "090156"
+    }
+  },
+  {
+    "nibss_code": "090157",
+    "name": "Infinity Microfinance Bank",
+    "short_name": "Infinity Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "50457",
+      "nomba": "090157",
+      "aella": "090157",
+      "fincra": "090157",
+      "budpay": "090157",
+      "payaza": "090157"
+    }
+  },
+  {
+    "nibss_code": "090158",
+    "name": "Futo Microfinance Bank",
+    "short_name": "Futo Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090158",
+      "aella": "090158",
+      "budpay": "090158",
+      "payaza": "090158"
+    }
+  },
+  {
+    "nibss_code": "090159",
+    "name": "Credit Afrique Microfinance Bank",
+    "short_name": "Credit Afrique Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090159",
+      "nomba": "090159",
+      "aella": "090159",
+      "fincra": "090159",
+      "budpay": "090159",
+      "payaza": "090159"
+    }
+  },
+  {
+    "nibss_code": "090160",
+    "name": "Addosser Microfinance Bank",
+    "short_name": "Addosser Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090160",
+      "nomba": "090160",
+      "aella": "090160",
+      "fincra": "090160",
+      "budpay": "090160",
+      "payaza": "090160"
+    }
+  },
+  {
+    "nibss_code": "090161",
+    "name": "Okpoga Microfinance Bank",
+    "short_name": "Okpoga Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090161",
+      "nomba": "090161",
+      "aella": "090161",
+      "fincra": "090161",
+      "budpay": "090161",
+      "payaza": "090161"
+    }
+  },
+  {
+    "nibss_code": "090162",
+    "name": "Stanford Microfinance Bank",
+    "short_name": "Stanford Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "aella": "090162",
+      "budpay": "090162",
+      "payaza": "090162"
+    }
+  },
+  {
+    "nibss_code": "090163",
+    "name": "First Multiple Microfinance Bank",
+    "short_name": "First Multiple Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "aella": "090163",
+      "budpay": "090163",
+      "payaza": "090163"
+    }
+  },
+  {
+    "nibss_code": "090164",
+    "name": "First Royal Microfinance Bank",
+    "short_name": "First Royal Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "090164",
+      "aella": "090164",
+      "fincra": "090164",
+      "budpay": "090164",
+      "payaza": "090164"
+    }
+  },
+  {
+    "nibss_code": "090165",
+    "name": "Petra Microfinance Bank",
+    "short_name": "Petra Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "50746",
+      "nomba": "090165",
+      "aella": "090165",
+      "fincra": "090165",
+      "budpay": "090165",
+      "payaza": "090165"
+    }
+  },
+  {
+    "nibss_code": "090166",
+    "name": "Eso-E Microfinance Bank",
+    "short_name": "Eso-E Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090166",
+      "aella": "090166",
+      "budpay": "090166",
+      "payaza": "090166"
+    }
+  },
+  {
+    "nibss_code": "090167",
+    "name": "Daylight Microfinance Bank",
+    "short_name": "Daylight Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090167",
+      "nomba": "090167",
+      "aella": "090167",
+      "fincra": "090167",
+      "budpay": "090167",
+      "payaza": "090167"
+    }
+  },
+  {
+    "nibss_code": "090168",
+    "name": "Gashua Microfinance Bank",
+    "short_name": "Gashua Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "aella": "090168",
+      "budpay": "090168",
+      "payaza": "090168"
+    }
+  },
+  {
+    "nibss_code": "090169",
+    "name": "Alpha Kapital Microfinance Bank",
+    "short_name": "Alpha Kapital Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090169",
+      "aella": "090169",
+      "budpay": "090169",
+      "payaza": "090169"
+    }
+  },
+  {
+    "nibss_code": "090170",
+    "name": "Rahama Microfinance Bank",
+    "short_name": "Rahama Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "090170",
+      "aella": "090170",
+      "fincra": "090170",
+      "budpay": "090170",
+      "payaza": "090170"
+    }
+  },
+  {
+    "nibss_code": "090171",
+    "name": "Mainstreet Microfinance Bank",
+    "short_name": "Mainstreet Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090171",
+      "aella": "090171",
+      "budpay": "090171",
+      "payaza": "090171"
+    }
+  },
+  {
+    "nibss_code": "090172",
+    "name": "Astrapolis Microfinance Bank",
+    "short_name": "Astrapolis Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090172",
+      "aella": "090172",
+      "budpay": "090172",
+      "payaza": "090172"
+    }
+  },
+  {
+    "nibss_code": "090173",
+    "name": "Reliance Microfinance Bank",
+    "short_name": "Reliance Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "090173",
+      "aella": "090173",
+      "fincra": "090173",
+      "budpay": "090173",
+      "payaza": "090173"
+    }
+  },
+  {
+    "nibss_code": "090174",
+    "name": "Malachy Microfinance Bank",
+    "short_name": "Malachy Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "090174",
+      "aella": "090174",
+      "fincra": "090174",
+      "budpay": "090174",
+      "payaza": "090174"
+    }
+  },
+  {
+    "nibss_code": "090175",
+    "name": "Rubies Microfinance Bank",
+    "short_name": "Rubies Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090175",
+      "aella": "090175",
+      "budpay": "090175",
+      "payaza": "090175"
+    }
+  },
+  {
+    "nibss_code": "090176",
+    "name": "Bosak Microfinance Bank",
+    "short_name": "Bosak Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090176",
+      "aella": "090176",
+      "budpay": "090176",
+      "payaza": "090176"
+    }
+  },
+  {
+    "nibss_code": "090177",
+    "name": "Lapo Microfinance Bank",
+    "short_name": "Lapo Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090177",
+      "nomba": "090177",
+      "aella": "090177",
+      "fincra": "090177",
+      "budpay": "090177",
+      "payaza": "090177"
+    }
+  },
+  {
+    "nibss_code": "090178",
+    "name": "Greenbank Microfinance Bank",
+    "short_name": "Greenbank Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090178",
+      "nomba": "090178",
+      "aella": "090178",
+      "fincra": "090178",
+      "budpay": "090178",
+      "payaza": "090178"
+    }
+  },
+  {
+    "nibss_code": "090179",
+    "name": "Fast Microfinance Bank",
+    "short_name": "Fast Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090179",
+      "nomba": "090179",
+      "aella": "090179",
+      "fincra": "090179",
+      "budpay": "090179",
+      "payaza": "090179"
+    }
+  },
+  {
+    "nibss_code": "090180",
+    "name": "Amju Microfinance Bank",
+    "short_name": "Amju Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "090180",
+      "aella": "090180",
+      "fincra": "090180",
+      "budpay": "090180",
+      "payaza": "090180"
+    }
+  },
+  {
+    "nibss_code": "090198",
+    "name": "Renmoney Mfb",
+    "short_name": "Renmoney Mfb",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090198",
+      "aella": "090198",
+      "budpay": "090198",
+      "payaza": "090198"
+    }
+  },
+  {
+    "nibss_code": "090267",
+    "name": "Kuda Microfinance Bank",
+    "short_name": "Kuda Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "50211",
+      "nomba": "090267",
+      "mono": "672",
+      "aella": "090267",
+      "fincra": "090267",
+      "budpay": "090267",
+      "payaza": "090267"
+    }
+  },
+  {
+    "nibss_code": "090325",
+    "name": "Sparkle Microfinance Bank",
+    "short_name": "Sparkle Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "51310",
+      "nomba": "090325",
+      "aella": "090325",
+      "fincra": "090325",
+      "budpay": "090325",
+      "payaza": "090325"
+    }
+  },
+  {
+    "nibss_code": "090328",
+    "name": "Eyowo Microfinance Bank",
+    "short_name": "Eyowo Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "50126",
+      "aella": "090328",
+      "budpay": "090328",
+      "payaza": "090328"
+    }
+  },
+  {
+    "nibss_code": "090405",
+    "name": "Moniepoint Microfinance Bank",
+    "short_name": "Moniepoint Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "50515",
+      "nomba": "090405",
+      "aella": "090405",
+      "fincra": "090405",
+      "budpay": "090405",
+      "payaza": "090405"
+    }
+  },
+  {
+    "nibss_code": "090551",
+    "name": "Fairmoney Mfb",
+    "short_name": "Fairmoney Mfb",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "51318",
+      "nomba": "090551",
+      "aella": "090551",
+      "fincra": "090551",
+      "budpay": "090551",
+      "payaza": "090551"
+    }
+  },
+  {
+    "nibss_code": "090591",
+    "name": "Beamer (Gabsyn) Microfinance Bank",
+    "short_name": "Beamer (Gabsyn) Microfinance Bank",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "090591",
+      "aella": "090591",
+      "budpay": "090591",
+      "payaza": "090591"
+    }
+  },
+  {
+    "nibss_code": "090645",
+    "name": "Nombank Mfb",
+    "short_name": "Nombank Mfb",
+    "aliases": [],
+    "type": "microfinance",
+    "status": "active",
+    "provider_codes": {}
+  },
+  {
+    "nibss_code": "100001",
+    "name": "Fets Microfinance Bank",
+    "short_name": "Fets Microfinance Bank",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "915",
+      "nomba": "314",
+      "aella": "100001",
+      "fincra": "314",
+      "budpay": "100001",
+      "payaza": "100001"
+    }
+  },
+  {
+    "nibss_code": "100002",
+    "name": "Paga",
+    "short_name": "Paga",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "100002",
+      "nomba": "327",
+      "aella": "100002",
+      "fincra": "327",
+      "budpay": "100002",
+      "payaza": "100002"
+    }
+  },
+  {
+    "nibss_code": "100003",
+    "name": "Parkway-Readycash Microfinance Bank",
+    "short_name": "Parkway-Readycash Microfinance Bank",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "917",
+      "nomba": "311",
+      "aella": "100003",
+      "fincra": "311",
+      "budpay": "100003",
+      "payaza": "100003"
+    }
+  },
+  {
+    "nibss_code": "100004",
+    "name": "Opay",
+    "short_name": "Opay",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "999992",
+      "nomba": "305",
+      "aella": "100004",
+      "fincra": "305",
+      "budpay": "100004",
+      "payaza": "100004"
+    }
+  },
+  {
+    "nibss_code": "100005",
+    "name": "Cellulant",
+    "short_name": "Cellulant",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "919",
+      "nomba": "317",
+      "aella": "100005",
+      "fincra": "317",
+      "budpay": "100005",
+      "payaza": "100005"
+    }
+  },
+  {
+    "nibss_code": "100006",
+    "name": "Etranzact",
+    "short_name": "Etranzact",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "920",
+      "nomba": "306",
+      "aella": "100006",
+      "fincra": "306",
+      "budpay": "100006",
+      "payaza": "100006"
+    }
+  },
+  {
+    "nibss_code": "100007",
+    "name": "Savetrust Bank",
+    "short_name": "Savetrust Bank",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "909",
+      "nomba": "403",
+      "aella": "100007",
+      "fincra": "403",
+      "budpay": "100007",
+      "payaza": "100007"
+    }
+  },
+  {
+    "nibss_code": "100008",
+    "name": "Ecobank Xpress Account",
+    "short_name": "Ecobank Xpress Account",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "922",
+      "aella": "100008",
+      "budpay": "100008",
+      "payaza": "100008"
+    }
+  },
+  {
+    "nibss_code": "100009",
+    "name": "Gtmobile",
+    "short_name": "Gtmobile",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "923",
+      "nomba": "315",
+      "aella": "100009",
+      "fincra": "315",
+      "budpay": "100009",
+      "payaza": "100009"
+    }
+  },
+  {
+    "nibss_code": "100010",
+    "name": "Teasymobile",
+    "short_name": "Teasymobile",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "924",
+      "nomba": "319",
+      "aella": "100010",
+      "fincra": "319",
+      "budpay": "100010",
+      "payaza": "100010"
+    }
+  },
+  {
+    "nibss_code": "100011",
+    "name": "Mkudi",
+    "short_name": "Mkudi",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "313",
+      "aella": "100011",
+      "fincra": "313",
+      "budpay": "100011",
+      "payaza": "100011"
+    }
+  },
+  {
+    "nibss_code": "100012",
+    "name": "Vtnetworks",
+    "short_name": "Vtnetworks",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "926",
+      "nomba": "320",
+      "aella": "100012",
+      "fincra": "320",
+      "budpay": "100012",
+      "payaza": "100012"
+    }
+  },
+  {
+    "nibss_code": "100013",
+    "name": "Accessmobile",
+    "short_name": "Accessmobile",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "323",
+      "aella": "100013",
+      "fincra": "323",
+      "budpay": "100013",
+      "payaza": "100013"
+    }
+  },
+  {
+    "nibss_code": "100014",
+    "name": "Fbnmobile",
+    "short_name": "Fbnmobile",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "309",
+      "aella": "100014",
+      "fincra": "309",
+      "budpay": "100014",
+      "payaza": "100014"
+    }
+  },
+  {
+    "nibss_code": "100015",
+    "name": "Kegow",
+    "short_name": "Kegow",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "aella": "100015",
+      "budpay": "100015",
+      "payaza": "100015"
+    }
+  },
+  {
+    "nibss_code": "100016",
+    "name": "Fortismobile",
+    "short_name": "Fortismobile",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "930",
+      "aella": "100016",
+      "budpay": "100016",
+      "payaza": "100016"
+    }
+  },
+  {
+    "nibss_code": "100017",
+    "name": "Hedonmark",
+    "short_name": "Hedonmark",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "931",
+      "nomba": "324",
+      "aella": "100017",
+      "fincra": "324",
+      "budpay": "100017",
+      "payaza": "100017"
+    }
+  },
+  {
+    "nibss_code": "100018",
+    "name": "Zenithmobile",
+    "short_name": "Zenithmobile",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "932",
+      "nomba": "322",
+      "aella": "100018",
+      "fincra": "322",
+      "budpay": "100018",
+      "payaza": "100018"
+    }
+  },
+  {
+    "nibss_code": "100019",
+    "name": "Fidelity Mobile",
+    "short_name": "Fidelity Mobile",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "933",
+      "nomba": "318",
+      "aella": "100019",
+      "fincra": "318",
+      "budpay": "100019",
+      "payaza": "100019"
+    }
+  },
+  {
+    "nibss_code": "100020",
+    "name": "Moneybox",
+    "short_name": "Moneybox",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "934",
+      "nomba": "325",
+      "aella": "100020",
+      "fincra": "325",
+      "budpay": "100020",
+      "payaza": "100020"
+    }
+  },
+  {
+    "nibss_code": "100021",
+    "name": "Eartholeum",
+    "short_name": "Eartholeum",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "935",
+      "nomba": "100021",
+      "aella": "100021",
+      "fincra": "100021",
+      "budpay": "100021",
+      "payaza": "100021"
+    }
+  },
+  {
+    "nibss_code": "100022",
+    "name": "Sterling Mobile (Gomoney)",
+    "short_name": "Sterling Mobile (Gomoney)",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "936",
+      "nomba": "326",
+      "aella": "100022",
+      "fincra": "326",
+      "budpay": "100022",
+      "payaza": "100022"
+    }
+  },
+  {
+    "nibss_code": "100023",
+    "name": "Tagpay",
+    "short_name": "Tagpay",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "937",
+      "nomba": "000026",
+      "aella": "100023",
+      "fincra": "000026",
+      "budpay": "100023",
+      "payaza": "100023"
+    }
+  },
+  {
+    "nibss_code": "100024",
+    "name": "Imperial Homes Mortgage Bank",
+    "short_name": "Imperial Homes Mortgage Bank",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "938",
+      "nomba": "415",
+      "aella": "100024",
+      "fincra": "415",
+      "budpay": "100024",
+      "payaza": "100024"
+    }
+  },
+  {
+    "nibss_code": "100025",
+    "name": "Zinternet - Kongapay",
+    "short_name": "Zinternet - Kongapay",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "939",
+      "aella": "100025",
+      "budpay": "100025",
+      "payaza": "100025"
+    }
+  },
+  {
+    "nibss_code": "100026",
+    "name": "Carbon Microfinance Bank (One Finance)",
+    "short_name": "Carbon Microfinance Bank (One Finance)",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "940",
+      "nomba": "100026",
+      "aella": "100026",
+      "fincra": "100026",
+      "budpay": "100026",
+      "payaza": "100026"
+    }
+  },
+  {
+    "nibss_code": "100027",
+    "name": "Intellifin",
+    "short_name": "Intellifin",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "941",
+      "nomba": "100027",
+      "aella": "100027",
+      "fincra": "100027",
+      "budpay": "100027",
+      "payaza": "100027"
+    }
+  },
+  {
+    "nibss_code": "100028",
+    "name": "Ag Mortgage Bank Plc",
+    "short_name": "Ag Mortgage Bank Plc",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "100028",
+      "nomba": "100028",
+      "aella": "100028",
+      "fincra": "100028",
+      "budpay": "100028",
+      "payaza": "100028"
+    }
+  },
+  {
+    "nibss_code": "100029",
+    "name": "Innovectives Kesh",
+    "short_name": "Innovectives Kesh",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "100029",
+      "aella": "100029",
+      "budpay": "100029",
+      "payaza": "100029"
+    }
+  },
+  {
+    "nibss_code": "100031",
+    "name": "Fcmb Mobile",
+    "short_name": "Fcmb Mobile",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "100031",
+      "mono": "214",
+      "aella": "100031",
+      "budpay": "100031",
+      "payaza": "100031"
+    }
+  },
+  {
+    "nibss_code": "100032",
+    "name": "Contec Global",
+    "short_name": "Contec Global",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "100032",
+      "nomba": "100032",
+      "aella": "100032",
+      "fincra": "100032",
+      "budpay": "100032",
+      "payaza": "100032"
+    }
+  },
+  {
+    "nibss_code": "100033",
+    "name": "Palmpay",
+    "short_name": "Palmpay",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "999991",
+      "nomba": "100033",
+      "aella": "100033",
+      "fincra": "100033",
+      "budpay": "100033",
+      "payaza": "100033"
+    }
+  },
+  {
+    "nibss_code": "100039",
+    "name": "Titan-Paystack",
+    "short_name": "Titan-Paystack",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "100039",
+      "aella": "100039",
+      "budpay": "100039",
+      "payaza": "100039"
+    }
+  },
+  {
+    "nibss_code": "100042",
+    "name": "Pocketapp",
+    "short_name": "Pocketapp",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {}
+  },
+  {
+    "nibss_code": "110001",
+    "name": "Payattitude Online",
+    "short_name": "Payattitude Online",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "943",
+      "nomba": "110001",
+      "aella": "110001",
+      "fincra": "110001",
+      "budpay": "110001",
+      "payaza": "110001"
+    }
+  },
+  {
+    "nibss_code": "110002",
+    "name": "Flutterwave Technology Solutions Limited",
+    "short_name": "Flutterwave Technology Solutions Limited",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "110002",
+      "aella": "110002",
+      "budpay": "110002",
+      "payaza": "110002"
+    }
+  },
+  {
+    "nibss_code": "120001",
+    "name": "9 Payment Solutions Bank",
+    "short_name": "9 Payment Solutions Bank",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "120001",
+      "nomba": "120001",
+      "mono": "802",
+      "aella": "120001",
+      "fincra": "120001",
+      "budpay": "120001",
+      "payaza": "120001"
+    }
+  },
+  {
+    "nibss_code": "120003",
+    "name": "Momo Psb",
+    "short_name": "Momo Psb",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "120003",
+      "aella": "120003",
+      "budpay": "120003",
+      "payaza": "120003"
+    }
+  },
+  {
+    "nibss_code": "120004",
+    "name": "Smartcash Psb",
+    "short_name": "Smartcash Psb",
+    "aliases": [],
+    "type": "fintech",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "00803",
+      "aella": "120004",
+      "budpay": "120004",
+      "payaza": "120004"
+    }
+  },
+  {
+    "nibss_code": "400001",
+    "name": "Fsdh",
+    "short_name": "Fsdh",
+    "aliases": [],
+    "type": "finance_house",
+    "status": "active",
+    "provider_codes": {
+      "paystack": "400001",
+      "nomba": "601",
+      "aella": "400001",
+      "fincra": "601",
+      "budpay": "400001",
+      "payaza": "400001"
+    }
+  },
+  {
+    "nibss_code": "50515",
+    "name": "Rolez Microfinance Bank",
+    "short_name": "Rolez Microfinance Bank",
+    "aliases": [],
+    "type": "other",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "090405",
+      "aella": "50515",
+      "fincra": "090405",
+      "budpay": "50515",
+      "payaza": "50515"
+    }
+  },
+  {
+    "nibss_code": "999999",
+    "name": "Nip Virtual Bank",
+    "short_name": "Nip Virtual Bank",
+    "aliases": [],
+    "type": "other",
+    "status": "active",
+    "provider_codes": {
+      "nomba": "907",
+      "aella": "999999",
+      "fincra": "907",
+      "budpay": "999999",
+      "payaza": "999999"
+    }
+  }
+]
