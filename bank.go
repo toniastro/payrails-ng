@@ -11,26 +11,16 @@ const (
 	Redbiller   Provider = "redbiller"
 	Mono        Provider = "mono"
 	Aella       Provider = "aella"
+	Fincra      Provider = "fincra"
+	Budpay      Provider = "budpay"
+	Payaza      Provider = "payaza"
 )
 
 // BankType represents the category of financial institution
 type BankType string
 
-const (
-	Commercial   BankType = "commercial"
-	Microfinance BankType = "microfinance"
-	Fintech      BankType = "fintech"
-	Mortgage     BankType = "mortgage"
-)
-
 // BankStatus represents the operational status of a bank
 type BankStatus string
-
-const (
-	Active  BankStatus = "active"
-	Defunct BankStatus = "defunct"
-	Merged  BankStatus = "merged"
-)
 
 // Bank represents a Nigerian financial institution with its
 // NIBSS code as the canonical identifier and provider-specific codes
