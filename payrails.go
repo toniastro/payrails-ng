@@ -4,6 +4,7 @@ import (
 	_ "embed"
 	"encoding/json"
 	"errors"
+	"fmt"
 	"strings"
 )
 
@@ -38,20 +39,35 @@ func Load() (*Registry, error) {
 	}
 
 	for _, b := range banks {
-		// Index by NIBSS code
+		// Index by NIBSS code (canonical identifier — must be unique)
+		if b.NIBSSCode == "" {
+			return nil, fmt.Errorf("bank %q has empty NIBSS code", b.Name)
+		}
+		if existing, ok := r.byNIBSS[b.NIBSSCode]; ok && existing != b {
+			return nil, fmt.Errorf("duplicate NIBSS code %q (%q and %q)", b.NIBSSCode, existing.Name, b.Name)
+		}
 		r.byNIBSS[b.NIBSSCode] = b
 
-		// Index by name and aliases (lowercased for case-insensitive lookup)
-		r.byAlias[strings.ToLower(b.Name)] = b
-		r.byAlias[strings.ToLower(b.ShortName)] = b
-		for _, alias := range b.Aliases {
-			r.byAlias[strings.ToLower(alias)] = b
+		for _, key := range append([]string{b.Name, b.ShortName}, b.Aliases...) {
+			key = strings.ToLower(strings.TrimSpace(key))
+			if key == "" {
+				continue
+			}
+			if existing, ok := r.byAlias[key]; ok && existing != b {
+				return nil, fmt.Errorf("ambiguous bank name %q (%q and %q)", key, existing.Name, b.Name)
+			}
+			r.byAlias[key] = b
 		}
 
-		// Index by provider code
 		for provider, code := range b.ProviderCodes {
+			if code == "" {
+				continue
+			}
 			if r.byProvider[provider] == nil {
 				r.byProvider[provider] = make(map[string]*Bank)
+			}
+			if existing, ok := r.byProvider[provider][code]; ok && existing != b {
+				return nil, fmt.Errorf("duplicate %s code %q (%q and %q)", provider, code, existing.Name, b.Name)
 			}
 			r.byProvider[provider][code] = b
 		}
