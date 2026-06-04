@@ -2362,9 +2362,7 @@
     "status": "active",
     "provider_codes": {
       "paystack": "937",
-      "nomba": "000026",
       "aella": "100023",
-      "fincra": "000026",
       "budpay": "100023",
       "payaza": "100023"
     }
@@ -2470,7 +2468,6 @@
     "status": "active",
     "provider_codes": {
       "paystack": "100031",
-      "mono": "214",
       "aella": "100031",
       "budpay": "100031",
       "payaza": "100031"
@@ -2630,9 +2627,7 @@
     "type": "other",
     "status": "active",
     "provider_codes": {
-      "nomba": "090405",
       "aella": "50515",
-      "fincra": "090405",
       "budpay": "50515",
       "payaza": "50515"
     }
