@@ -12,7 +12,7 @@ A Go library for resolving Nigerian bank codes across multiple payment providers
 
 ## Supported Providers
 
-`paystack` · `flutterwave` · `monnify` · `nomba` · `redbiller` · `mono` · `aella` · `fincra` · `budpay` · `payaza`
+`paystack` · `flutterwave` · `monnify` · `nomba` · `redbiller` · `mono` · `aella` · `fincra` · `budpay` · `payaza` · `bachs`
 
 ## Installation
 

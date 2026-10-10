@@ -14,6 +14,7 @@ const (
 	Fincra      Provider = "fincra"
 	Budpay      Provider = "budpay"
 	Payaza      Provider = "payaza"
+	Bachs       Provider = "bachs"
 )
 
 // BankType represents the category of financial institution
