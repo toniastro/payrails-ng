@@ -103,3 +103,24 @@ func TestResolve_NoProviderCode(t *testing.T) {
 		t.Errorf("expected ErrNoProviderCode, got %v", err)
 	}
 }
+
+func TestResolve_Bachs(t *testing.T) {
+	r := setup(t)
+
+	cases := map[string]string{
+		"000013": "058",    // Guaranty Trust Bank
+		"100004": "305",    // Opay
+		"090405": "090405", // Moniepoint
+		"090267": "50211",  // Kuda
+	}
+	for nibss, want := range cases {
+		got, err := r.Resolve(nibss, payrails.Bachs)
+		if err != nil {
+			t.Errorf("%s: %v", nibss, err)
+			continue
+		}
+		if got != want {
+			t.Errorf("%s: expected %s, got %s", nibss, want, got)
+		}
+	}
+}
